@@ -48,7 +48,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 省略查看`.vimrc`文件
 
-#### 进入vim & 安装插件
+#### Enter vim mode & Install Plugins
 
 <img src="./vim.png"/>
 
@@ -58,7 +58,7 @@ vim
 :PluginInstall
 ```
 
-#### Delete Plugins
+#### Remove Plugins
 
 在`.vimrc`文件中注释或删除插件信息,and then:
 
