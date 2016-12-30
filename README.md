@@ -76,3 +76,7 @@ vim
 
 :PluginUpdate
 ```
+
+### Reference
+
+[vim map nmap](http://www.cnblogs.com/lq0729/archive/2011/12/24/2300189.html)
