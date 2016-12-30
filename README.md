@@ -79,4 +79,5 @@ vim
 
 ### Reference
 
-[vim map nmap](http://www.cnblogs.com/lq0729/archive/2011/12/24/2300189.html)
+[Vim常用命令合集](http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html)    
+[vim map nmap](http://www.cnblogs.com/lq0729/archive/2011/12/24/2300189.html)   
