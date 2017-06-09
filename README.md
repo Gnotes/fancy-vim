@@ -79,6 +79,8 @@ vim
 
 ## Commonly used commands of vim
 
+vim自带了一个使用教程`vimtutor`里边包含了常用的vim命令，在终端输入`vimtutor`即可进入教程  
+
 ### vim的[`四种模式`](http://www.cnblogs.com/zeushuang/archive/2012/11/16/2772830.html)
 
 - `normal` 普通模式  
@@ -161,3 +163,4 @@ _尼玛，奇葩的命令，点不好记_
 
 [Vim常用命令](http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html)    
 [vim map nmap](http://www.cnblogs.com/lq0729/archive/2011/12/24/2300189.html)   
+[Vim 中文使用介绍](https://github.com/wsdjeg/vim-galore-zh_cn)  
